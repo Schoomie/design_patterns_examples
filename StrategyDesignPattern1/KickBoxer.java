@@ -1,4 +1,4 @@
-package StrategyDesignPattern;
+package StrategyDesignPattern1;
 
 /**
  * Created by Kuba on 19/03/2019.

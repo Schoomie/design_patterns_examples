@@ -1,4 +1,4 @@
-package StrategyDesignPattern;
+package StrategyDesignPattern1;
 
 
 public interface ElbowHit {
